@@ -1,0 +1,6 @@
+json{
+  "name": "polymarket-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para Polymarket API",
+  "main": "api/polymarket.js"
+}
